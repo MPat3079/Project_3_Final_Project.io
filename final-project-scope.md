@@ -25,7 +25,7 @@ Peer Review _ Class will get a chance to see my Project Scope statement and give
   1 Quality 2 Budget 3 Time 
 # Time
 - Need to write info to put on web pages by 8/26/25 
-- Need Ruff draft done by 8/28/25 due to personal time constraints. 
+- Need ruff draft done by 8/28/25 due to personal time constraints. 
 - Completed by 11:59 PM on 10/03/25 
 # Quality 
 Does not have to look professional but does need to have two web pages and display the information well. 
