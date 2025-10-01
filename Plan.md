@@ -22,3 +22,12 @@ For each high risk scoring 12 or above, create a stratigy to handle the risk. Al
 3. Create html Page 1 / 15 / Accept : Just grind page out
 4. Create html page 2 / 15 / Accept : Just grind page out
 5. Create style.css / 15 / Accept : Just grind page out
+# Project Schedule
+1. Upload to GitHub and revise Scope Statement
+2. Create README
+3. Create Plan
+4. Create images and documentation for HTML pages
+5. Create HTML and CSS pages
+6. Refine any files and review project
+7. Create retrospective
+8. if time permits polish and section of project. at this point have fun with it.
