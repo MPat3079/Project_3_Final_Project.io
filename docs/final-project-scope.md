@@ -1,4 +1,4 @@
-### Tool: Project Scope Statement 
+# Tool: Project Scope Statement 
 ## Project Name
 Final Project : Chicken Coop Project 
 ## Project Purpose
@@ -23,15 +23,15 @@ Peer Review _ Class will get a chance to see my Project Scope statement and give
 - Greg Gamel - Any technical questions I have. 
 ## Priorities Time 
   1 Quality 2 Budget 3 Time 
-# Time
+### Time
 - Need to write info to put on web pages by 8/26/25 
 - Need Ruff draft done by 8/28/25 due to personal time constraints. 
 - Completed by 11:59 PM on 10/03/25 
-# Quality 
+### Quality 
 Does not have to look professional but does need to have two web pages and display the information well. 
-# Budget
+### Budget
  N/A - No cost other than time. 
-## Acceptance Criteria 
+### Acceptance Criteria 
 I need both my index.html le and scope.md les submitted by 8/31/25 by 11:59 PM. Will have more information when full requirements are released. 
 
 
