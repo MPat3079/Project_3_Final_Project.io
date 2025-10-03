@@ -1,0 +1,41 @@
+h1
+{
+   font-family: 'Franklin Gothic Medium';
+   font-size: large;
+   color: #03ad00;
+   padding-bottom: -15px;
+}
+h2
+{
+   color: #03ad00;
+   font-size: small ;
+   font-family: 'Franklin Gothic Medium';
+   padding-top: -15px;
+}
+h3
+{
+   color: #03ad00;
+   font-size: small;
+   font-family: 'Franklin Gothic Medium';
+}
+h4
+{
+   color: #f4f804;
+   font-size: xx-large ;
+   font-family: 'cursive';
+   padding-top: -15px;
+   text-align:center;
+}
+body 
+{
+   font-family: 'Times New Roman';
+   background-color: #37763f;
+   margin: 25px 50px;
+}
+p {
+   font-size: medium;
+   margin: 25;
+   text-indent: 4ch;
+   Color: #f4f804; 
+}
+
