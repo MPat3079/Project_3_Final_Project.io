@@ -10,4 +10,4 @@ I would like to cover the following items on the following pages:
 7.  One image of layout. page - 2
 8. I would like to give credit to Carolina Coops for covering at of what I learned over time. page - 2
 
-https://project_3_final_project.github.io
+https://mpat3079.github.io/project_3_final_project.github.io/
