@@ -32,6 +32,6 @@ Does not have to look professional but does need to have two web pages and displ
 ### Budget
  N/A - No cost other than time. 
 ## Acceptance Criteria 
-I need both my index.html le and scope.md les submitted by 8/31/25 by 11:59 PM. Will have more information when full requirements are released. 
+I need both my index.html file and scope.md files submitted by 8/31/25 by 11:59 PM. Will have more information when full requirements are released. 
 
 
